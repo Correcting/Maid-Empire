@@ -14,30 +14,24 @@
 		"promotions": ["Maid Trooper"],
 		"attackSound": "shot"
 	},
-	{
-		"name": "Maid Mrksman",
-		"unitType": "Melee",
-		"uniqueTo": "Maid Empire",
-                "replaces": "Warrior",
-		"movement": 4,
-		"strength": 38,
-		"range": 5,
-		"cost": 120,
-		"requiredTech": "Metal Casting",
-		"upgradesTo": "Rocket Artillery",
-		"uniques": ["+[250]% Strength vs [City]",
-                            "No defensive terrain bonus",
-                            "Ranged attacks may be performed over obstacles",
-                            "May capture killed [All] units",
-                            "May attack when embarked",
-                            "Can see over obstacles",
-                            "Can build [All] improvements on tiles",
-                            "[10] additional attacks per turn",
-                            "Can speed up construction of a building [3] times",
-                            "Can speed up the construction of a wonder [3] times",
-                            "Can move after attacking"],
-		"promotions": ["Maid Trooper", "Medic", "March"],
-	},
+        {
+		"name": "Warrior",
+		"unitType": "Sword",
+                "replaces": "Warrior"
+		"movement": 8,
+		"strength": 12,
+		"cost": 4,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects",
+                        "Can move after attacking",
+                        "Can build [All] improvements on tiles",
+                        "[10] additional attacks per turn"],
+		"attackSound": "nonmetalhit",
+                "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+        },
 	{
 		"name": "Riflemaid",
 		"unitType": "Melee",
