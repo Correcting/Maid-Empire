@@ -33,8 +33,8 @@
                             "Can see over obstacles",
                             "Can build [All] improvements on tiles",
                             "[10] additional attacks per turn",
-                            "Can speed up construction of a building",
-                            "
+                            "Can speed up construction of a building [3] times",
+                            "Can speed up the construction of a wonder [3] times",
                             "Can move after attacking"],
 		"promotions": ["Maid Trooper", "Medic", "March"],
 	},
