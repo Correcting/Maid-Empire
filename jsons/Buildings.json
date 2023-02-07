@@ -11,18 +11,19 @@
 		"requiredTech": "Mathematics"
 	},
         {
-		"name": "Made Kafe",
-		"replaces": "Workshop",
-		"uniqueTo": "Upside-Down",
-		"cost": 7,
-		"maintenance": 2,
-		"production": 11,
-                "science": 2,
-                "happiness": 10,
-		"specialistSlots": {"Engineer": 7},
-		"percentStatBonus": {"science": 300},
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Jungle] tiles [in this city]", "[+95]% Great Person generation [in this city]"],
-		"requiredTech": "Metal Casting"
+                "name": "Raid Shadow",
+                "uniqueTo": "Maid Empire",
+                "cost": -1,
+                "cityStrength": 15,
+		"cityHealth": 55,
+		"culture": 10,
+                "uniques": 
+          [
+                "Can only be built [in capital]",
+                "Reveals the entire map",
+                "Limited to [1] per Civilization",
+                "[+3 Science] per [2] population [in this city]"
+                
+          ], 
         },
 ]
