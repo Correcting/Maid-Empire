@@ -17,6 +17,8 @@
                 "cityStrength": 15,
 		"cityHealth": 55,
 		"culture": 10,
+                "science": 145,
+                "percentStatBonus": {"production": 110},
                 "uniques": 
           [
                 "Can only be built [in capital]",
