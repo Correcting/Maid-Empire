@@ -14,24 +14,6 @@
 		"promotions": ["Maid Trooper"],
 		"attackSound": "shot"
 	},
-        {
-		"name": "Maryor",
-		"unitType": "Sword",
-                "replaces": "Warrior"
-		"movement": 8,
-		"strength": 12,
-		"cost": 4,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects",
-                        "Can move after attacking",
-                        "Can build [All] improvements on tiles",
-                        "[10] additional attacks per turn"],
-		"attackSound": "nonmetalhit",
-                "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
-        },
 	{
 		"name": "Riflemaid",
 		"unitType": "Melee",
