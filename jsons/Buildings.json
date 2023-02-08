@@ -17,13 +17,12 @@
                 "cityStrength": 15,
 		"cityHealth": 55,
 		"culture": 10,
-                "science": 145,
-                "percentStatBonus": {"production": 110},
+                "science": 7,
+                "percentStatBonus": {"production": 123},
                 "uniques": 
           [
                 "Can only be built [in capital]",
-                "Reveals the entire map",
-                "Limited to [1] per Civilization",
+                "Limited to [2] per Civilization",
                 "[+3 Science] per [2] population [in this city]"
                 
           ], 
