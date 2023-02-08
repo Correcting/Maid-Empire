@@ -16,6 +16,8 @@
                 "cost": -1,
 		"culture": 10,
                 "science": 7,
+                "gold": 1700,
+                "food": 235,
                 "percentStatBonus": {"production": 1123},
                 "uniques": ["Can only be built [in capital]",
                             "Limited to [1] per Civilization",
