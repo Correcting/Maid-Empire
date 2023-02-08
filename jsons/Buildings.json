@@ -15,6 +15,7 @@
                 "uniqueTo": "Maid Empire",
                 "cost": -3,
 		"culture": 7,
+                "happiness": [+50],
                 "science": 7,
                 "gold": 1700,
                 "food": 5,
