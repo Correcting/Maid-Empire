@@ -17,12 +17,8 @@
 		"culture": 10,
                 "science": 7,
                 "percentStatBonus": {"production": 123},
-                "uniques": 
-        [
-                "Can only be built [in capital]",
-                "Limited to [1] per Civilization",
-                "[+15 Science] per [2] population [in this city]"
-                
-        ], 
+                "uniques": ["Can only be built [in capital]",
+                            "Limited to [1] per Civilization",
+                            "[+15 Science] per [2] population [in this city]"], 
         },
 ]
