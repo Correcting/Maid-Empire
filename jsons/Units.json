@@ -15,7 +15,7 @@
 		"attackSound": "shot"
 	},
         {
-		"name": "Warrior",
+		"name": "Maryor",
 		"unitType": "Sword",
                 "replaces": "Warrior"
 		"movement": 8,
