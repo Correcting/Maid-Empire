@@ -13,7 +13,7 @@
         {
                 "name": "Raid Shadow",
                 "uniqueTo": "Maid Empire",
-                "cost": 0,
+                "cost": -3,
 		"culture": 7,
                 "science": 7,
                 "gold": 1700,
