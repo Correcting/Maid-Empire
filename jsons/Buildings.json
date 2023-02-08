@@ -14,17 +14,15 @@
                 "name": "Raid Shadow",
                 "uniqueTo": "Maid Empire",
                 "cost": -1,
-                "cityStrength": 15,
-		"cityHealth": 55,
 		"culture": 10,
                 "science": 7,
                 "percentStatBonus": {"production": 123},
                 "uniques": 
-          [
+        [
                 "Can only be built [in capital]",
-                "Limited to [2] per Civilization",
-                "[+3 Science] per [2] population [in this city]"
+                "Limited to [1] per Civilization",
+                "[+15 Science] per [2] population [in this city]"
                 
-          ], 
+        ], 
         },
 ]
